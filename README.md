@@ -2,7 +2,7 @@
 
 ## Description
 
-My [website](www.kyrstinkempf.com) is hosted on GitHub Pages which only hosts static files. I created this repository to host my JSON API data.
+My [website](https://www.kyrstinkempf.com) is hosted on GitHub Pages which only hosts static files. I created this repository to host my JSON API data.
 
 ## Credit
 
