@@ -44,7 +44,7 @@
             "details": "Sitter Rating was created with a React frontend and Rails API backend, and it was my first project implementing Rails authentication and authorization. This web app allows a user to sign up and create new sitters that any user can view and add a rating. When a user logs in, they will be able to navigate to see all sitters or the sitters they have rated.",
             "languages": "Rails, React, JavaScript, HTML, CSS",
             "github_link": "https://github.com/kyrstin-kempf/sitter-rating",
-            "deployed_link": "https://sitter-rating.onrender.com/",
+            "deployed_link": "",
             "gif_image": "/snapshots/p4_sitter_rating.gif",
             "wireframe_image": "/behind_the_scenes/p4_sitter_rating.png"
         },
@@ -56,7 +56,7 @@
             "details": "Noteworthy Places was created with a React frontend and Rails API backend. This app includes Rails authentication and authorization and was my first experience implementing Redux. Once a user signs up, they can add new places of interests that will be categorized by city. Each place added includes the name, activity type, direction link, website link, and notes.",
             "languages": "Rails, React, JavaScript, HTML, CSS",
             "github_link": "https://github.com/kyrstin-kempf/noteworthy-places",
-            "deployed_link": "https://noteworthy-places.onrender.com",
+            "deployed_link": "",
             "gif_image": "/snapshots/p5_noteworthy_places.gif",
             "wireframe_image": "/behind_the_scenes/p5_noteworthy_places.png"
         },
@@ -68,7 +68,7 @@
             "details": "Kyrstin Kempf - my personal website was created using create-react-app and is a single page application. I am using json-server to access data from a JSON file. This was my first project that was entirely self-directed and the first time I've used CSS grid. Visitors can learn more about me and navigate to see my portfolio. One of my favorite challeges was figuring out how to get my email address to copy-to-clipboard on click.",
             "languages": "React, JavaScript, HTML, CSS",
             "github_link": "https://github.com/kyrstin-kempf/personal-website",
-            "deployed_link": "https://www.kyrstinkempf.com",
+            "deployed_link": "",
             "gif_image": "/snapshots/p6_personal_website.gif",
             "wireframe_image": "/behind_the_scenes/p6_personal_website.png"
         }
